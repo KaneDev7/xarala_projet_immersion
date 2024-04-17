@@ -65,9 +65,8 @@ header a {
 }
 
 
-.header_left .logo {
-    color: var(--primary_color);
-    font-size: 50px;
+.header_left .logo img {
+   width: 120px;
 }
 
 nav a {
